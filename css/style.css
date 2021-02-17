@@ -1,0 +1,9 @@
+body {
+	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.js-gallery-albums {
+	cursor: pointer;
+}
+.js-gallery-albums div:hover {
+	opacity: 0.7;
+}
